@@ -1,0 +1,28 @@
+[2023-06-20 22:54:21] glpiphplog.WARNING: Test logger  
+[2023-06-20 22:55:01] glpiphplog.WARNING: Test logger  
+[2023-06-20 22:55:05] glpiphplog.WARNING: Test logger  
+[2023-06-20 22:55:43] glpiphplog.WARNING: Test logger  
+[2023-06-20 22:56:32] glpiphplog.WARNING: Test logger  
+[2023-06-20 22:56:57] glpiphplog.WARNING: Test logger  
+[2023-06-20 23:06:04] glpiphplog.WARNING: Test logger  
+[2023-06-20 23:06:12] glpiphplog.WARNING: Test logger  
+[2023-06-20 23:07:07] glpiphplog.WARNING: Test logger  
+[2023-06-20 23:11:13] glpiphplog.WARNING: Test logger  
+[2023-06-20 23:11:53] glpiphplog.WARNING: Test logger  
+[2023-06-20 23:12:34] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: mysqli::__construct(): Argument #5 ($port) must be of type ?int, string given in C:\xampp\htdocs\glpi\install\install.php at line 165
+  Backtrace :
+  install\install.php:165                            mysqli->__construct()
+  install\install.php:586                            step3()
+  
+[2023-06-20 23:12:44] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: array_sum(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\glpi\src\Html.php at line 760
+  Backtrace :
+  src\Html.php:760                                   array_sum()
+  src\Html.php:1881                                  Html::displayDebugInfos()
+  src\Html.php:2104                                  Html::footer()
+  src\Html.php:888                                   Html::nullFooter()
+  src\Session.php:1537                               Html::displayErrorAndDie()
+  install\install.php:544                            Session::checkCSRF()
+  
+[2023-06-20 23:12:44] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\src\Html.php line 6842
+Compile css/palettes/auror.scss  {"user":"@REPORTESPC"} 
+[2023-06-20 23:12:59] glpiphplog.WARNING: Test logger  

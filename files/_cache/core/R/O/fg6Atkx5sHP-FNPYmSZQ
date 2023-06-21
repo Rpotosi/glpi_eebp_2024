@@ -1,0 +1,37 @@
+1687299371
+2d54902bd661e7cbaee6feff3324324676f03afd
+a:1:{s:53:"bn_count_Software1621d323-3124-4cc7-ab8a-31a7a8d6e141";s:1136:"      <style>
+         #bn_425471383 {
+            background-color: #aaddac;
+            color: #358639;
+         }
+
+         #bn_425471383:hover {
+            background-color: #73c777;
+            border: 1px solid #44aa48;
+         }
+
+         .theme-dark #bn_425471383 {
+            background-color: #358639;
+            color: #aaddac;
+         }
+
+         .theme-dark #bn_425471383:hover {
+            background-color: #73c777;
+            color: #358639;
+            border: 1px solid #44aa48;
+         }
+      </style>
+      <a href='/glpi/front/software.php?reset=reset'
+         id="bn_425471383"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Software">Software</div>
+         <i class="main-icon ti ti-apps"></i>
+      </a>";}

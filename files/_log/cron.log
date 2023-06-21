@@ -1,0 +1,72 @@
+2023-06-20 23:17:40 [@REPORTESPC]
+Interno #1: Ejecutar contract
+2023-06-20 23:17:44 [@REPORTESPC]
+Interno #1: Ejecutar infocom
+2023-06-20 23:17:52 [@REPORTESPC]
+Interno #1: Ejecutar mailgate
+2023-06-20 23:26:32 [2@REPORTESPC]
+Interno #1: Ejecutar session
+2023-06-20 23:36:34 [2@REPORTESPC]
+Interno #1: Ejecutar graph
+2023-06-20 23:40:20 [@REPORTESPC]
+Interno #1: Ejecutar reservation
+2023-06-20 23:40:23 [@REPORTESPC]
+Interno #1: Ejecutar closeticket
+2023-06-20 23:43:35 [@REPORTESPC]
+Interno #1: Ejecutar alertnotclosed
+2023-06-20 23:43:50 [@REPORTESPC]
+Interno #1: Ejecutar slaticket
+2023-06-20 23:45:26 [@REPORTESPC]
+Interno #1: Ejecutar createinquest
+2023-06-20 23:45:27 [@REPORTESPC]
+Interno #1: Ejecutar watcher
+2023-06-20 23:45:37 [@REPORTESPC]
+Interno #1: Ejecutar RecurrentItems
+2023-06-20 23:45:52 [@REPORTESPC]
+Interno #1: Ejecutar planningrecall
+2023-06-20 23:47:10 [@REPORTESPC]
+Interno #1: Ejecutar queuednotification
+2023-06-20 23:47:16 [@REPORTESPC]
+Interno #1: Ejecutar queuednotificationclean
+2023-06-20 23:48:04 [@REPORTESPC]
+Interno #1: Ejecutar temp
+2023-06-20 23:48:16 [@REPORTESPC]
+Interno #1: Ejecutar mailgateerror
+2023-06-20 23:50:43 [@REPORTESPC]
+Interno #1: Ejecutar certificate
+2023-06-20 23:51:54 [@REPORTESPC]
+Interno #1: Ejecutar olaticket
+2023-06-20 23:54:24 [@REPORTESPC]
+Interno #1: Ejecutar mailgate
+2023-06-20 23:54:53 [@REPORTESPC]
+Interno #1: Ejecutar slaticket
+2023-06-20 23:57:01 [@REPORTESPC]
+Interno #1: Ejecutar queuednotification
+2023-06-20 23:57:14 [@REPORTESPC]
+Interno #1: Ejecutar planningrecall
+2023-06-21 00:07:23 [2@REPORTESPC]
+Interno #1: Ejecutar olaticket
+2023-06-21 00:09:28 [@REPORTESPC]
+Interno #1: Ejecutar queuednotification
+2023-06-21 00:14:23 [@REPORTESPC]
+Interno #1: Ejecutar slaticket
+2023-06-21 00:15:48 [@REPORTESPC]
+Interno #1: Ejecutar planningrecall
+2023-06-21 00:16:59 [@REPORTESPC]
+Interno #1: Ejecutar mailgate
+2023-06-21 00:19:14 [@REPORTESPC]
+Interno #1: Ejecutar queuednotification
+2023-06-21 00:24:22 [@REPORTESPC]
+Interno #1: Ejecutar olaticket
+2023-06-21 00:26:27 [@REPORTESPC]
+Interno #1: Ejecutar slaticket
+2023-06-21 00:29:11 [@REPORTESPC]
+Interno #1: Ejecutar planningrecall
+2023-06-21 00:29:24 [@REPORTESPC]
+Interno #1: Ejecutar queuednotification
+2023-06-21 00:39:02 [2@REPORTESPC]
+Interno #1: Ejecutar mailgate
+2023-06-21 00:39:27 [@REPORTESPC]
+Interno #1: Ejecutar olaticket
+2023-06-21 00:41:22 [@REPORTESPC]
+Interno #1: Ejecutar queuednotification

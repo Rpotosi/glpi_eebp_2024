@@ -1,0 +1,37 @@
+1687299372
+3d74df591f21c346e94361e8e4ae6394923a5afd
+a:1:{s:60:"bn_count_SoftwareLicense02e9f758-1ff4-4d0d-823a-c7e84839948d";s:1162:"      <style>
+         #bn_1032524638 {
+            background-color: #27ab3c;
+            color: #b1edba;
+         }
+
+         #bn_1032524638:hover {
+            background-color: #49d55f;
+            border: 1px solid #87e496;
+         }
+
+         .theme-dark #bn_1032524638 {
+            background-color: #b1edba;
+            color: #27ab3c;
+         }
+
+         .theme-dark #bn_1032524638:hover {
+            background-color: #49d55f;
+            color: #b1edba;
+            border: 1px solid #87e496;
+         }
+      </style>
+      <a href='/glpi/front/softwarelicense.php?reset=reset'
+         id="bn_1032524638"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Licencias">Licencias</div>
+         <i class="main-icon ti ti-key"></i>
+      </a>";}

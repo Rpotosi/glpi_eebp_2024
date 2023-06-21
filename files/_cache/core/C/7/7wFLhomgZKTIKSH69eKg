@@ -1,0 +1,37 @@
+1687299372
+d5bdb89e0962c494f63de1c28e22cb3b43d69dfa
+a:1:{s:49:"bn_count_Rack9744373a-b320-4afb-9a38-c31f6536c876";s:1151:"      <style>
+         #bn_351455524 {
+            background-color: #0e87a0;
+            color: #86e1f4;
+         }
+
+         #bn_351455524:hover {
+            background-color: #14c2e6;
+            border: 1px solid #57d6f0;
+         }
+
+         .theme-dark #bn_351455524 {
+            background-color: #86e1f4;
+            color: #0e87a0;
+         }
+
+         .theme-dark #bn_351455524:hover {
+            background-color: #14c2e6;
+            color: #86e1f4;
+            border: 1px solid #57d6f0;
+         }
+      </style>
+      <a href='/glpi/front/rack.php?reset=reset'
+         id="bn_351455524"
+         class="card big-number  filter-dates filter-dates_mod filter-location filter-manufacturer filter-group_tech filter-user_tech filter-state"
+         title="">
+         <span class="content">            <span title="0"
+                  class="formatted-number"
+                  data-precision='0'>
+               <span class="number">0</span>
+               <span class="suffix"></span>
+            </span></span>
+         <div class="label" title="Bastidores">Bastidores</div>
+         <i class="main-icon ti ti-server"></i>
+      </a>";}
